@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 defabcCCCaaa
+=======
+defabcCCCbbb
+>>>>>>> 95fde857920bfb18487fbb3e8733f4a1e5f136e3
 hijk
