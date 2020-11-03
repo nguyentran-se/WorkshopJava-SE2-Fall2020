@@ -1,1 +1,1 @@
-# This is exercise for JavaOOP. You can reference, but trying not to copy this that is good for you. Goodluck!
+# This is workshop for JavaOOP-FPTU. You should brainstorm to solve problem before referencing source code. That is better for you, Goodluck!
