@@ -1,0 +1,2 @@
+Domestic [code=TESTINGDOM, title=TEST, price=1000.0, transport=true, startDate=2020/1/1, endDay=2020/2/2, tourGuideTip=100.0]
+Inter [code=TESTINGINTER, title=TEST, price=2000.0, transport=false, startDate=2020/3/3, endDay=2020/4/4, aviationTax=200.0, entryFee=200.0]
